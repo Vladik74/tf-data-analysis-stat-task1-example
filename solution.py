@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-chat_id = 773978697 # Ваш chat ID, не меняйте название переменной
+chat_id = 496613075 # Ваш chat ID, не меняйте название переменной
 
 def solution(x: np.array) -> float:
     mu = -27+np.exp(1)
